@@ -172,25 +172,3 @@ a {
   list-style-type: none;
   font-family: "Poppins", sans-serif;
 }
-
-/* .additional span {
-  display: flex;
-  text-align: left;
-  flex-direction: column;
-  margin: 0.5rem;
-  padding: 0;
-}
-
-.additional span .head {
-  padding: 0;
-  margin: 0;
-}
-
-.additional span ul {
-  display: flex;
-  text-align: left;
-  flex-direction: column;
-  margin: 0.5rem;
-  list-style-type: none;
-  font-family: "Poppins", sans-serif;
-} */
